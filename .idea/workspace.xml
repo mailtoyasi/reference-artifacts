@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf063d4d-6988-418e-a234-3f9762d5855e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/agentic-banking-poc/Enterprise_Agentic_AI_Banking_Platform_Engineering_Handbook_v1.0.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agentic-banking-poc/Enterprise_Agentic_AI_Banking_Platform_Master_Prompt_v1.0.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf063d4d-6988-418e-a234-3f9762d5855e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
